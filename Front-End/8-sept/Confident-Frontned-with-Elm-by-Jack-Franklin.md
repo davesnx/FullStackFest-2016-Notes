@@ -64,8 +64,6 @@
 
 -
 
--
-
 ##### Q&A:
   - Not mature enought
   - Elm not Server Side Rendering
