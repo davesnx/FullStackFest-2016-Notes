@@ -6,6 +6,8 @@ Tried to represent in the way of the Speaker was talking, some of this documents
 > DISCLAMER:
   I just come for the Front-End Part, so I just done the 8th September
 
+### Folder structure
+
 ```
 ├── Back-End
 ├── Front-End
@@ -19,6 +21,8 @@ Tried to represent in the way of the Speaker was talking, some of this documents
 │       └── [ ... ]
 │   └── 9-sept
 ```
+
+### Contribute
 
 Feel free to correct a typo or 100 typos, or even do a PR for add Resources
 or explain a little bit better some part or article.
