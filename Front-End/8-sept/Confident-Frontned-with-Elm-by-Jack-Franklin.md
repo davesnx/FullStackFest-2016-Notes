@@ -76,3 +76,4 @@
 -
 
 **GitHub code**: [jackfranklin/elm-for-js-developers-talk](https://github.com/jackfranklin/elm-for-js-developers-talk)
+**Slides**: [fullstackfest-elm-for-js-developers](https://speakerdeck.com/jackfranklin/fullstackfest-elm-for-js-developers)
