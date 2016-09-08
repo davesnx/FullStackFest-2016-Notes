@@ -104,24 +104,3 @@ the state would be a `optimisticState`
 -
 
 Everything is Immutable.
-
-
-
-
-
-
-
-
-
-
-
-
-
-To be tested:
-
-- In the low level mutability is still faster than Immutablility,
-and exponencially still performs better.
-- What happen if some part of your Architecture isn't Immutable in a Immutable Arch.
-- Try MobX in the thypical FB Stack.
-
-Final Note: 5/10
