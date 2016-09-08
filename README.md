@@ -1,3 +1,5 @@
+![](HeaderFullStackFest.png)
+
 ## Full Stack Fest 2016
 This repo contains a small draft of some concepts expressed of each talk about Full Stack Fest.
 
