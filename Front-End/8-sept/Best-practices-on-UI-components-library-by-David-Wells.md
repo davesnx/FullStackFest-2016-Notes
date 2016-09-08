@@ -1,9 +1,7 @@
-# Best Practices on building a UI Component Library for your company
-## David Wells (@DavidWells)[https://twitter.com/DavidWells]
+# Best Practices on building a UI Component Library for your company by David Wells
+[@DavidWells](https://twitter.com/DavidWells)
 
--
-
-Q: What's the perfect scenario on the Front-End?
+#### Q: What's the perfect scenario on the Front-End?
 
 - Build one, use everywhere
 - Organized
@@ -20,8 +18,8 @@ Example: React Components UI Architecture
 -
 
 ### Design System (aka style guide)
-Ref: LightingDesingSystem.com from SalesForce
-Ref: ux.mulesoft.com
+Ref: [LightningDesignSystem.com](https://www.lightningdesignsystem.com) from SalesForce
+Ref: [ux.mulesoft.com](http://ux.mulesoft.com)
 
 ### What contain a style guide
   - **Documentation** (not only page documentation, also inline code documentation)
@@ -38,7 +36,7 @@ Ref: ux.mulesoft.com
 
   Anatomy of a Component: Screaming Architecture
   They create the site of serverless with **phenomic**
-  Ref: https://github.com/MoOx/phenomic
+  Ref: [phenomic](https://github.com/MoOx/phenomic)
 
 #### How to handle CSS?
   They use PostCSS and CSS Modules.
