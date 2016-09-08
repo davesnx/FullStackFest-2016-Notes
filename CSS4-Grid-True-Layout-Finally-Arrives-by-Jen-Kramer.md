@@ -1,6 +1,6 @@
 # CSS4 Grid: True Layout Finally Arrives
 ## Jen Kramer
-http://www.slideshare.net/jen4web
+Slides: (slideshare.net/jen4web)[http://www.slideshare.net/jen4web]
 
 -
 

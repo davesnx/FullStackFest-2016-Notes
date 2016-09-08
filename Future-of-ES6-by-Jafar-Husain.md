@@ -1,5 +1,5 @@
 # Future of ES6
-## Jafar Husain
+## Jafar Husain [@jhusain](https://twitter.com/jhusain)
 
 ES stages
 - 0: Starwman

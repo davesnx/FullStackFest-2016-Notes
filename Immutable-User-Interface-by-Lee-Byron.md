@@ -1,6 +1,6 @@
 ## Immutable User Interface
 ### Immutable App Architecture
-##### Lee Byron
+##### Lee Byron [@leeb](https://twitter.com/leeb)
 
 He's gonna explain how to make a "osom" Applications
 

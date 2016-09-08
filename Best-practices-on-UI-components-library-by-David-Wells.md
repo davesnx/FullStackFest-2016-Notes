@@ -1,5 +1,5 @@
 # Best Practices on building a UI Component Library for your company
-## David Wells
+## David Wells (@DavidWells)[https://twitter.com/DavidWells]
 
 -
 
@@ -46,4 +46,3 @@ Ref: ux.mulesoft.com
 
 #### How to global assets like vars, mixins, icons, etc... (reset, normalize?)
   Don't use mixins or vars, just PostCSS powered by JS.
-  

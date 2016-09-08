@@ -1,5 +1,5 @@
 # Confident Front-End with Elm
-## Jack Franklin
+## Jack Franklin [@Jack_Franklin](https://twitter.com/Jack_Franklin)
 
 ### Basic Introdution to Elm
 
@@ -71,4 +71,4 @@ Q&A:
   - Elm not Server Side Rendering
   - When use Elm instead of JS?
     - Lot data changes all the time
-    - Side projects could be the best beggining(?)
+    - Side projects could be the best beggining(?
