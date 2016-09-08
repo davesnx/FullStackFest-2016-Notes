@@ -35,4 +35,7 @@ So we create the concept of **Progressive Web Applications**.
 
   Also even newer, appears some technologies (solutions) for manage the state, Flux or Redux are capable to manage the global State of your application in a One way data flow, that allows us to represent the data from our models in a proper way, and only update this global state by interaction that the users trigger on the View, and this view update the global State (sometimes called Store).
 
-  All of this come to kill the layer of ORM that was nowadays in REST.
+- **2015** Falcor or GraphQL comes to solve the problem with the REST or ORM to get all of this data that the views need from the Database.
+  Falcor - Falcor-client or GraphQL - Relay, are thinked about the same pattern as React, so forget about the DOM, just prove the data and the next layer is the responsable to represent it, manage state, and all the stuff that the Persistence Layer doesn't care.
+
+  Both are in the model of **Single Enpoint API**, you just request with a "complex"-query and they will return all your demands with a JSON.
