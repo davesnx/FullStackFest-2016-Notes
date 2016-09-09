@@ -1,65 +1,69 @@
-## Immutable User Interface
-### Immutable App Architecture
-##### Lee Byron [@leeb](https://twitter.com/leeb)
+# Immutable User Interface by Lee Byron
+## Immutable App Architecture
 
-He's gonna explain how to make a "osom" Applications
+#### He's gonna explain how to make a "osom" Applications
 
--
+### What's a Architecture?
 
-What's a Architecture?
-
-- Durability -
+- Durability
 - Utility - How's gonna be used
 - Beauty - Usable and desirable (Developer Experience)
 
 All about is making "Fundamental Structural Choices"
   > Chosing Elements of Abstraction
 
--
+--
 
-MVC sucks blablal Model/View lose control of the flow.
+### MVC sucks blablal Model/View lose control of the flow.
 
--
+--
 
-Also need to consider all the variables in Mobile/Latency/Accesibility/etc.
+### Also need to consider all the variables in Mobile/Latency/Accesibility/etc.
 
--
+--
 
 Examples, blalba
 
--
+--
 
-Immutablility
+### Immutablility
 - Isn't new
-- Performance (?)
+- Performance
 
-Everything is about Power vs Principles
-aka. Pros and Cons
+--
+
+### Everything is about Power vs Principles
+aka. Pros and Cons (Trade-offs)
 
 Power maintains inside the low level of languages, meanwhile the Principles [...]
 
 Everything comes from Elm, pure functional programing.
 
--
+--
+
+### Component
 
 Component is a abstraction about a view that we want to controll how to represent some element(HTMLElement, UIView, etc...) some point of time.
 
-Component
+```
 (State) => View
 f(State): View
+```
 
 Explaining how React works...
 
--
+--
 
-Colocated Data Dependencies
+### Colocated Data Dependencies
 That's comes from where you store your data(?)
 
 Explain what's GraphQL...
 
 How the GraphQL queries match so well with WebComponents (actually, React).
 
--
+--
+
+### State
 
 The State of the Application comes from the Server
 and goes to the Model, that represent on the Components,
@@ -73,22 +77,19 @@ v                         |
 
 Models -> Components -> Views
 
-
-He points that sounds expensive, and It is (IMHO)
-but thanks to the some perf optimizations that are there, like:
-
-- Component Diff: diff(VDOM, DOM)
-- Memorize Func: Cache the same ouput from the same input
+He points that sounds expensive, and It is (IMHO).
+but thanks to the some perf optimizations like this, we win preformance:
+- **Component Diff**: diff(VDOM, DOM)
+- **Memorize Func**: Cache the same ouput from the same input
   - https://github.com/reactjs/reselect
   - https://github.com/sindresorhus/mem
-- Immutable Structures (Records, Maps, Lists, etc...)
+- **Immutable Structures** (Records, Maps, Lists, etc...)
   - https://facebook.github.io/immutable-js
 
--
+--
 
-Actions Asyncronous?
-
-Action: (State) => State
+### Actions Asyncronous?
+Action is `Action: (State) => State`
 
 But also they can be Async:
 `Action: (State) => State, Promise<State>`
@@ -101,6 +102,10 @@ So... at the end actions would request stuff to the server and will wait
 in the **Action Queue**, will wait until the server respond the Request, meanwhile
 the state would be a `optimisticState`
 
--
+--
 
-Everything is Immutable.
+### Everything is Immutable.
+
+--
+
+[@leeb](https://twitter.com/leeb)

@@ -1,21 +1,20 @@
 # Best Practices on building a UI Component Library for your company by David Wells
-[@DavidWells](https://twitter.com/DavidWells)
 
-#### Q: What's the perfect scenario on the Front-End?
+### Q: What's the perfect scenario on the Front-End?
 
 - Build one, use everywhere
 - Organized
 - Syncronized
 - Self contained, isolated
 
--
+--
 
 ### The problem?
 Scalability accross a big company maintain all the perfect scenario values.
 
 Example: React Components UI Architecture
 
--
+--
 
 ### Design System (aka style guide)
 Ref: [LightningDesignSystem.com](https://www.lightningdesignsystem.com) from SalesForce
@@ -44,3 +43,7 @@ Ref: [ux.mulesoft.com](http://ux.mulesoft.com)
 
 #### How to global assets like vars, mixins, icons, etc... (reset, normalize?)
   Don't use mixins or vars, just PostCSS powered by JS.
+
+-
+
+[@DavidWells](https://twitter.com/DavidWells)

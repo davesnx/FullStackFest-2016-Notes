@@ -1,6 +1,6 @@
 # NeuroJavaScript by Alex Castillo
 
-#### Electricity
+### Electricity
 Everything we do is controlled and facilitade by **electrical signals**
 running through our bodies.
 
@@ -8,14 +8,15 @@ Some Volunteer joins the stage and plug some kind of Brain-Connected Head into h
 - Sudo access to his brain :wow:
 - Nothing to hide
 
--
+--
 
 Tries to do some research on the Human Brain of the Volunteer
 The Volunteer is still alive
 
 
 > jking...
--
+
+--
 
 He launch concurrently a front and a backend
 Random data channels appears into some node application
@@ -23,14 +24,13 @@ Random data channels appears into some node application
 He opens the WebPage and we can see this channels producing some data,
 that we can supose that is his brain, also the frequencies.
 
--
+--
 
-**Neuro** + **JavaScript** is a combination of:
-  - JavaScript
-  - NeuroTech
-  - Data Sciende
-  - Data Visualitzation.
-
+### Neuro + JavaScript is a combination of:
+  - **JavaScript**
+  - **NeuroTech**
+  - **Data Sciende**
+  - **Data Visualitzation**
 
 ```
 OpenBCI Headset               Browser

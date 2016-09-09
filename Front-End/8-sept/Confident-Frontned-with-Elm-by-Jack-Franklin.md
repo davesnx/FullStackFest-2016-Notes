@@ -1,10 +1,7 @@
 # Confident Front-End with Elm by Jack Franklin
-### Basic Introdution to Elm
-[@Jack_Franklin](https://twitter.com/Jack_Franklin)
+## Basic Introdution to Elm
 
--
-
-#### Let's begin what we know now and what we have now:
+### Let's begin what we know now and what we have now:
 
 - MVC is death, blablalba.
 - Doble **Data Binding** and "dirty checker" is awful.
@@ -13,9 +10,9 @@
 - Mutability doesn't solve the browser issues.
 - Single source of Thurth.
 
--
+--
 
-#### Elm
+### Elm
 - Functional, Typed and Compiled
 - Syntax sucks
 - Expressive, clear code
@@ -64,7 +61,7 @@
 
 -
 
-##### Q&A:
+### Q&A:
   - Not mature enought
   - Elm not Server Side Rendering
   - When use Elm instead of JS?
@@ -73,5 +70,6 @@
 
 -
 
+[@Jack_Franklin](https://twitter.com/Jack_Franklin)
 **GitHub code**: [jackfranklin/elm-for-js-developers-talk](https://github.com/jackfranklin/elm-for-js-developers-talk)
 **Slides**: [fullstackfest-elm-for-js-developers](https://speakerdeck.com/jackfranklin/fullstackfest-elm-for-js-developers)
