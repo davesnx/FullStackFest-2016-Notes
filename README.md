@@ -7,9 +7,9 @@ Tried to represent in the notes the way of the speaker was talking, some of them
 
 As soon as I have the Records of the Talks I will add it here.
 
---
-
 ###### DISCLAMER: I just come for the Front-End Part, feel free to add your notes on the Backend!
+
+--
 
 ### Folder structure
 
