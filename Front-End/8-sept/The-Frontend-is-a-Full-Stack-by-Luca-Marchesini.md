@@ -1,13 +1,19 @@
-# The Frontend is a Full Stack
-## Luca Marchesini
+# The Frontend is a Full Stack by Luca Marchesini
 
--
-
-UI
-View Logic
-Business Logic
-ORM (kind of)
-Persistence (Database)
+### Layers of an Architecture
+```
+ ----------------------------------
+|                UI                 |
+ ----------------------------------
+|            View Logic             |
+ ----------------------------------
+|           Business Logic          |
+ ----------------------------------
+|           ORM (kind of)           |
+ ----------------------------------
+|        Persistence (Database)     |
+ ----------------------------------
+```
 
 At the begining the Web Pages were just so static, until the user interacts
 with all the Views(UI). Even to Reload the page isn't a option.

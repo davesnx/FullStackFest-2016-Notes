@@ -1,13 +1,9 @@
-# CSS4 Grid: True Layout Finally Arrives
-## Jen Kramer
-Slides: (slideshare.net/jen4web)[http://www.slideshare.net/jen4web]
-
--
+# CSS4 Grid: True Layout Finally Arrives by Jen Kramer
 
 ### Actual problems
 Explain why CSS flow doesn't work and its tidius, float
 
--
+--
 
 ### Flexbox
 Explain Flexbox
@@ -18,7 +14,7 @@ Explain Flexbox
 
   and why is awesome
 
--
+--
 
 ### Grid
 Grid specification in development
@@ -30,8 +26,7 @@ https://drafts.csswg.org/css-grid/
 
 Still buggy on the browser, you could enable it with some flags.
 
--
-
+--
 
 ```css
 
@@ -87,14 +82,18 @@ Still buggy on the browser, you could enable it with some flags.
 
 Ref: https://github.com/jen4web/css4grid
 
--
+--
 
 "So we stoped using tables and we've 15 years fighting with responsive layouts just to define a new spec for making divs behave like tables again"
 - Smart Quote
 
--
+--
 
-Recomemended Resources:
+[Slides](http://www.slideshare.net/jen4web)
+
+--
+
+### Recomemended Resources
 
 CSS Tricks
 Grid by Example: https://gridbyexample.com
