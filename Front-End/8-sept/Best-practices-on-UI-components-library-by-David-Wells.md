@@ -44,6 +44,10 @@ Ref: [ux.mulesoft.com](http://ux.mulesoft.com)
 #### How to global assets like vars, mixins, icons, etc... (reset, normalize?)
   Don't use mixins or vars, just PostCSS powered by JS.
 
+
+### Presentation
+See the [presentation](files/fullstack-fest-ui-lib.pdf)
+
 -
 
 [@DavidWells](https://twitter.com/DavidWells)
