@@ -1,17 +1,18 @@
 ![](HeaderFullStackFest.png)
 
-## Full Stack Fest 2016
+## Full Stack Fest 2016
+
 This repo contains a small draft of some concepts expressed of each talk about Full Stack Fest.
 
 Tried to represent in the notes the way of the speaker was talking, some of them are splitted by sections, some of them by code examples, some of them of a list of stuff.
 
 As soon as I have the Records of the Talks I will add it here.
 
-###### DISCLAMER: I just come for the Front-End Part, feel free to add your notes on the Backend!
+###### Disclamer: I just come for the Front-End Part, feel free to add your notes on the Backend!
 
---
+---
 
-### Folder structure
+### Folder structure
 
 ```
 ├── Back-End
